@@ -12,3 +12,5 @@ Welcome to the Terraria Builders Community github organization. On this org, the
  <img align=top src=https://terraria-servers.com/favicon.ico />
  <a align=top href="https://terraria-servers.com/server/4612/">Terraria-Servers</a>
 </div>
+
+Terraria Server IP: terrariabuilders.online:7777
