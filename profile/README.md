@@ -1,4 +1,4 @@
-<h1>Terraria Builders Community Github!</h1>
+<h1>Welcome to our Github!</h1>
 <p>Welcome to the TBC Github organization. On this org, there are a variety of public (and private) repos relating to TShock/Terraria multiplayer server plugins! Feel free to check them out :D
 </p>
 
