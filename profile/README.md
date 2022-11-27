@@ -1,5 +1,5 @@
 ## Terraria Builders Community Github!
-Welcome to the Terraria Builders Community github organization. On this org, there are a variety of public (and private) repos relating to TShock/Terraria multiplayer server plugins!
+Welcome to the Terraria Builders Community github organization. On this org, there are a variety of public (and private) repos relating to TShock/Terraria multiplayer server plugins! Feel free to check them out :D
 
 
 <div>
